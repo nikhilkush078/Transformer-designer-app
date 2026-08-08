@@ -48,6 +48,10 @@ I have recorded a detailed technical session explaining the code logic, the math
 > [!NOTE]
 > **Watch the full engineering breakdown here:**
 > ### 🔗 [Transformer Designer: Implementation & Demo on YouTube](https://youtu.be/m-p4YI1Xa8o?si=5umyoavobU65kmyO)
+> 
+> **Watch the Web App Video here:**
+> ### 🔗 [Transformer Designer: Web App Working Video on YouTube](https://youtu.be/dTZPQyAsHbo)
+
 
 ---
 
